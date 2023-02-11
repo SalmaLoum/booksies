@@ -1,5 +1,4 @@
 {
-  "homepage": "https://salmaloum.github.io/bokksies",
   "name": "booksies",
   "version": "0.1.0",
   "private": true,
@@ -16,7 +15,8 @@
     "react-bootstrap": "1.0.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^6.2.1",
-    "react-scripts": "^4.0.2"
+    "react-scripts": "^4.0.2",
+    "homepage": "https://salmaloum.github.io/booksies"
   },
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
