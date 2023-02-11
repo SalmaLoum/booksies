@@ -1,5 +1,6 @@
 {
-  "name": "client",
+  "homepage": "https://salmaloum.github.io/bokksies",
+  "name": "booksies",
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:3001",
@@ -21,7 +22,9 @@
     "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts --openssl-legacy-provider build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
