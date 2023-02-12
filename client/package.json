@@ -1,6 +1,6 @@
 {
-  "homepage": "https://salmaloum.github.io/booksies/",
-  "name": "booksies",
+  "homepage": "https://SalmaLoum.github.io/booksies",
+  "name": "client",
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:3001",
@@ -20,7 +20,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts --openssl-legacy-provider build",
     "test": "react-scripts test",
