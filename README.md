@@ -5,21 +5,26 @@
 
 View the deployed app through this [application Link](https://secure-tundra-11279.herokuapp.com/).
 
+## Table of Contents
+
+- [Description](#description)
+- [Usage](#usage)
+- [Credits](#credits)
+- [Questions](#questions)
+- [License](#license)
+- [Available Scripts](#available-scripts)
+
 ## Description
 
 Booksies is a full-stack application where users can create an account, log in, search thrugh Google Books API and save books to their personal library.
 
-## Table of Contents
-
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-- [Questions](#questions)
-- [Available Scripts](#available-scripts)
-
 ## Usage
 
-Click on this [application link](https://secure-tundra-11279.herokuapp.com/) and follow the prompts.
+Click on this [application link](https://secure-tundra-11279.herokuapp.com/) and follow the prompts shown on the gif below:
+
+![Booksies](./client/src/assets/booksies.gif)
+
+---
 
 ## Credits
 
@@ -28,6 +33,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [UCLA Extension Bootcamp](https://www.uclaextension.edu/?gclid=Cj0KCQiAgribBhDkARIsAASA5btdbwAz8x25r3b1deoRNIGxfkPFL11rAQMuCgQ7HYiqBH8CLr9CgLoaAktlEALw_wcB&gclsrc=aw.ds)
 - [Heroku](https://dashboard.heroku.com/)
 - [Salma Loum](https://github.com/SalmaLoum)
+
+---
+
+## Questions
+
+Reach us at the links below with additional questions:
+
+- Salma Loum: https://github.com/SalmaLoum
+
+---
 
 ## License
 
@@ -52,12 +67,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-## Questions
-
-Reach us at the links below with additional questions:
-
-- Salma Loum: https://github.com/SalmaLoum
 
 ---
 
