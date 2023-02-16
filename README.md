@@ -1,8 +1,65 @@
 # Booksies
 
+![Github license](https://img.shields.io/static/v1?label=License&message=MIT&color=informational)
+![React](https://img.shields.io/static/v1?label=License&message=React&color=green)
+
+View the deployed app through this [application Link](https://secure-tundra-11279.herokuapp.com/).
+
+## Description
+
+Booksies is a full-stack application where users can create an account, log in, search thrugh Google Books API and save books to their personal library.
+
+## Table of Contents
+
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+- [Questions](#questions)
+- [Available Scripts](#available-scripts)
+
+## Usage
+
+Click on this [application link](https://secure-tundra-11279.herokuapp.com/) and follow the prompts.
+
+## Credits
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[Application link](https://secure-tundra-11279.herokuapp.com/)
+- [UCLA Extension Bootcamp](https://www.uclaextension.edu/?gclid=Cj0KCQiAgribBhDkARIsAASA5btdbwAz8x25r3b1deoRNIGxfkPFL11rAQMuCgQ7HYiqBH8CLr9CgLoaAktlEALw_wcB&gclsrc=aw.ds)
+- [Heroku](https://dashboard.heroku.com/)
+- [Salma Loum](https://github.com/SalmaLoum)
+
+## License
+
+MIT License
+
+Copyright (c) 2023
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+## Questions
+
+Reach us at the links below with additional questions:
+
+- Salma Loum: https://github.com/SalmaLoum
+
+---
 
 ## Available Scripts
 
@@ -31,7 +88,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+#### `yarn eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
@@ -41,7 +98,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+### Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
